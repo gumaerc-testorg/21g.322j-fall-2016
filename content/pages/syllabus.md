@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview of the course and assignments, requirements,
+  and grading scheme.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the weekly response questions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +13,7 @@ Weekly Responses
 
 Each week students will submit a short paper (150-250 words) that responds to a question about the week’s theme/materials. These will be graded for argument, engagement with the readings, and quality of the writing. Students can skip ONE response without penalty.
 
-[List of Weekly Response questions]({{< baseurl >}}/pages/assignments/questions-pour-les-reponses).
+{{% resource_link 6c6917c0-d58e-f1fe-92f9-73ed59cf1855 "List of Weekly Response questions" %}}.
 
 Presentations
 -------------
