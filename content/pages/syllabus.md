@@ -127,7 +127,7 @@ Limited to 18 for pedagogical purposes. Priority will be given to pre-registered
 Academic Integrity at MIT
 -------------------------
 
-Students are expected to adhere to [MIT’s Academic Integrity](http://integrity.mit.edu) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate read a draft), but they are individually responsible for all written work.
+Students are expected to adhere to {{% resource_link "9bdb8794-e9f3-4f2f-8157-51dfa32d3a97" "MIT’s Academic Integrity" %}} policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates or have a classmate read a draft), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
@@ -136,4 +136,4 @@ Please review the Academic Integrity policy and related resources (e.g., working
 Recommended Book
 ----------------
 
-Vanessa Schwartz. _Modern France: A Very Short Introduction_. Oxford University Press, 2011. ISBN: 978-0195389418. \[Preview with [Google Books](https://books.google.com/books?id=BgazcbT50owC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)\].
+Vanessa Schwartz. _Modern France: A Very Short Introduction_. Oxford University Press, 2011. ISBN: 978-0195389418. \[Preview with {{% resource_link "68e9d24c-01d1-4601-803b-0a002e13f56f" "Google Books" %}}\].
